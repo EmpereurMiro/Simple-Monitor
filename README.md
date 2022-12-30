@@ -1,6 +1,9 @@
 ### <p align="center"> Simple Monitor </p>
   
 -----
+<p align="center"><img src="https://i.imgur.com/CUGFuQU.jpg"></p>
+
+-----
 
 <center> 
   
