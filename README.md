@@ -5,9 +5,11 @@
 
 -----
 
+### <p align="center">🖼️ Description 🖼️</p><br>
+
 <center> 
   
-<br><br>
+<br>
   * The program uses the `requests` module to retrieve the HTML content <br>of a website and the `hashlib` module's hashing function to calculate a hash <br>of the HTML content.
 * It uses an infinite loop that executes the check every `30 seconds` <br>(you can adjust this value to your needs) and compares the current hash of the <br>HTML content with the previously recorded hash.
 * If the hash has changed, it means the website has been modified <br>and the program sends a `Discord notification` using the requests module <br>and the URL of a Discord webhook. If the hash is identical, <br>the program waits 60 seconds before checking the website again.
